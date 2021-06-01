@@ -1,0 +1,11 @@
+name: BungeeSecurity
+author: PotatoVT#5008
+version: 1.7
+main: net.craftminecraft.bukkit.BungeeSecurity.BungeeSecurity
+
+commands:
+  ipwhitelist:
+    description: Compatible con todas las versiones de Spigot y Paper!
+    aliases: ['bs']
+    permission: 'bungeesecurity.setup'
+    permission-message: 'No tienes permisos suficientes para hacer esto!'

@@ -1,0 +1,14 @@
+# Usa el comando "/bs addip <IP_de_BungeeCord>" para que los usuarios solo puedan entrar desde BungeeCord
+# Atencion: Solo colocar la IP, NO colocar el puerto!
+whitelist: []
+
+
+# Este mensaje le saldra cuando una persona intente conectarse sin usar BungeeCord.
+playerKickMessage: '&b&lFast&f&lCraft &7> &fConectate usando &emc.fast-craft.ga'
+
+# Mostrar IP de los que intentan entrar sin usar BungeeCord.
+debug: false
+
+# MODO SETUP
+# Este modo esta en fase BETA, no activar o puede haber errores!
+setup: false
